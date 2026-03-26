@@ -6,7 +6,13 @@
 
 -Cursando o curso Técnico em Desenvolvimento de Sistemas (SENAC - São Leopoldo)
 
+##🌐 Linguagens:
+
 [![My Skills](https://skillicons.dev/icons?i=javascript)](https://skillicons.dev)
+
+##⚙️ Ferramentas:
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio)](https://skillicons.dev)<br><br>
 
 # 🏅 Certifications
 
