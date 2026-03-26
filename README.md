@@ -6,6 +6,7 @@
 
 -Cursando o curso Técnico em Desenvolvimento de Sistemas (SENAC - São Leopoldo)
 
+[![My Skills](https://skillicons.dev/icons?i=javascript)](https://skillicons.dev)
 
 # 🏅 Certifications
 
