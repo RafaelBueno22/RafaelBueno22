@@ -1,7 +1,8 @@
 ## Olá, me chamo Rafael Bueno🎵
 
-<!--
 ##💼 Perfil Profissional
+
+-Ensino Médio completo
 
 -Cursando o curso Técnico em Desenvolvimento de Sistemas (SENAC - São Leopoldo)
 
