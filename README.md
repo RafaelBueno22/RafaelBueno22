@@ -1,16 +1,16 @@
 ## Olá, me chamo Rafael Bueno🎵
 
-##💼 Perfil Profissional
+## 💼 Perfil Profissional
 
 -Ensino Médio completo
 
 -Cursando o curso Técnico em Desenvolvimento de Sistemas (SENAC - São Leopoldo)
 
-##🌐 Linguagens:
+## 🌐 Linguagens:
 
 [![My Skills](https://skillicons.dev/icons?i=javascript)](https://skillicons.dev)
 
-##⚙️ Ferramentas:
+## ⚙️ Ferramentas:
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio)](https://skillicons.dev)<br><br>
 
